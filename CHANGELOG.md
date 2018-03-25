@@ -1,4 +1,27 @@
 # Changelog
+**v28** Bug fix & Added some sites
+- Iwara.tv
+- F95zone.com
+- E621.net
+- Doujins.com
+- Javdoe.com
+- Blogjav.net
+- Pornbay.org
+
+```
+Removed Ktp.us.to
+```
+
+**v27** Bug fix & Added some sites
+- M88.com
+- Asianbookie.com
+- Cosplayjav.pl
+
+```
+Added new features
+Fixed bug on features
+```
+
 **v26** Bug fix & Added some sites
 - Tumblr.com
 - Ktp.us.to
