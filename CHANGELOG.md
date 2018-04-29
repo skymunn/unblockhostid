@@ -1,4 +1,47 @@
 # Changelog
+**v31** Bug fix, Added some sites & Added new feature
+- Javhd.com
+- Javbus.com
+
+```
+Added new features: Inject Non-ID (Imgur etc.)
+```
+
+**v30** Bug fix & Added some sites
+- Cerdas.com
+- Imgchili.net
+- Mantanmuslim.com
+- Hakihome.com
+- Avcens.download
+- Wetholefans.com
+- Maxjav.com
+- Avgirlblog.me
+- Smalljav.us
+- Biqle.ru
+- Avheat.com
+- Asexon.com
+- Avgle.com
+- Tuoi69.com
+- Dinojav.com
+- Ohyeah1080.com
+- Babepedia.com
+- Celebjihad.com
+
+```
+Fixed bug on Onejav.com & Tumblr.com
+Deteled Non-ID option, Deleted Safe for Work option, and Deleted other features.
+```
+
+**v29** Bug fix & Added some sites
+- Walach.co.uk
+- Tube8.com
+- Onejav.com
+- Xxxmoviestream.com
+
+```
+Fixed bug on Javhihi.com & Tumblr.com
+```
+
 **v28** Bug fix & Added some sites
 - Iwara.tv
 - F95zone.com

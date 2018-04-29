@@ -156,24 +156,27 @@
 - Javdoe.com
 - Blogjav.net
 - Pornbay.org
-
-*[NON-ID]*
-- +Imgur.com
-- +A-ads.com
-- +Therockcocks.com
-
-*[SAFE FOR WORK]*
-- Kbagi.com
-- Openload.co
-- Reddit.com
-- Vimeo.com
-- Thepiratebay.org
-- Omegle.com
-- Rarbg.to
-- Eztv.ag
-- Isohunt.to
-- 4chan.org
-- Newgrounds.com
-- Heavy.com
-- Netflix.com
-- Tumblr.com
+- Walach.co.uk
+- Tube8.com
+- Onejav.com
+- Xxxmoviestream.com
+- Cerdas.com
+- Imgchili.net
+- Mantanmuslim.com
+- Hakihome.com
+- Avcens.download
+- Wetholefans.com
+- Maxjav.com
+- Avgirlblog.me
+- Smalljav.us
+- Biqle.ru
+- Avheat.com
+- Asexon.com
+- Avgle.com
+- Tuoi69.com
+- Dinojav.com
+- Ohyeah1080.com
+- Babepedia.com
+- Celebjihad.com
+- Javhd.com
+- Javbus.com

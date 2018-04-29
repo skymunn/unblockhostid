@@ -1,20 +1,9 @@
-# DOWNLOAD: [UNBLOCKHOSTID](https://unblockhostid.github.io/)
+# [=DOWNLOAD=](https://unblockhostid.github.io/)
 
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
-![GUI v23](https://image.prntscr.com/image/w-bKwzxtSsSDsX2ueU3yhw.png)
-
-# Version:
-
-## Normal
-*Versi Normal adalah versi umum yang bisa digunakan di segala perangkat dan ISP.*
-
-## Non-ID
-*Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom.*
-
-## Safe for Work
-*Versi Safe for Work adalah versi khusus yang tidak memasukkan situs dewasa.*
+![GUI v29](https://kek.gg/i/4n-HFY.png)
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md).
@@ -29,21 +18,17 @@ Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/unblo
 UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Request
-!["Kami akan melayani tamu meski permintaannya aneh-aneh"](http://spongebobia.com/spongebob-captures/content/episodes/galleries/069a%20-%20Krusty%20Towers/069a%20-%20Krusty%20Towers%20(055).jpg)
-
-> "Kami akan melayani tamu meski permintaannya aneh-aneh"
-
 Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/unblockhostid/issues/new).
-Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas, misal:
+Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 
-**[REQUEST]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
+**[REQ]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
 
-**[BUG]**     - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
+**[BUG]** - Untuk yang mau melaporkan adanya bug di salah satu situs.
 
-**[(ISP)]**   - Ini wajib disertakan, jika anda memakai dari Telkom, silahkan tulis [ID], dan jika selain ISP dari Telkom, silahkan tulis [EX].
+*Contoh request untuk situs baru: [REQ] example.com*
 
-*Contoh request untuk situs baru: [ID] [REQUEST] example.com*
+*Contoh request untuk bug: [BUG] example.com*
 
-*Contoh request untuk bug: [ID] [BUG] [PC] example.com*
+Pastikan website yang akan direquest belum tersedia di list [SITES.md](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md) (Gunakan CTRL+F untuk mencari)
 
 Jika tidak menggunakan kode request diatas akan tidak saya kerjakan, Terima Kasih.
